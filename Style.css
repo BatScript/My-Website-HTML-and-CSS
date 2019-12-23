@@ -1,0 +1,165 @@
+.container1
+{
+    background-color: #C7F0DB;
+    width: auto;
+}
+.middle-container
+{
+  margin: 100px auto;
+  width: 80%;
+}
+.bottom-container
+{
+  background-color: #2dabf9;
+  padding: 20px;
+}
+.myButton {
+	box-shadow:inset 0 -3px 13px 0 #29bbff;
+	background:linear-gradient(to bottom, #2dabf9 5%, #0688fa 100%);
+	background-color:#2dabf9;
+	border-radius:6px;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:15px;
+	padding:9px 23px;
+	text-decoration:none;
+	text-shadow:0 1px 0 #263666;
+}
+.myButton:hover {
+	background:linear-gradient(to bottom, #0688fa 5%, #2dabf9 100%);
+	background-color:#0688fa;
+}
+.myButton:active {
+	position:relative;
+	top:1px;
+}
+
+.mohit
+{
+  font-family: 'Montserrat', sans-serif;
+  font-weight: normal;
+  color: #009AAE;
+  margin: 30px auto 0 auto;
+  width: 30%;
+  font-size: 1.5rem;
+}
+.profile
+{
+  width:50%;
+  margin: 0 auto 0 auto;
+}
+.webicon
+{
+  width: 15%;
+  float:left;
+}
+.intro
+{
+  width: 30%;
+  margin: auto;
+  line-height: 30px;
+}
+.adobeicon
+{
+  width: 15%;
+  float: right;
+}
+.bird
+{
+  margin: 0 auto 0 auto;
+  width: 15%;
+}
+
+.bird2
+{
+  position: relative;
+  margin: 0 auto 0 auto;
+  width: 15%;
+  bottom: 350px;
+  left: 50px;
+}
+.mount
+{
+  position: relative;
+  margin-top: 40px;
+  right: 100px;
+}
+.skill-row
+{
+  width: 70%;
+  margin: 0 auto 0 auto;
+  position: relative;
+}
+.business
+{
+  margin: 0 auto 10px auto;
+  padding: 20px;
+}
+.if
+{
+  margin-bottom: 0;
+}
+.webD
+{
+  width:30%;
+  margin:auto;
+}
+.graD
+{
+  width:30%;
+  margin:auto;
+}
+body
+{
+  text-align: center;
+}
+.profilepic
+{
+  height: 200px;
+  width: 200px;
+}
+h2
+{
+  font-family: 'Montserrat', sans-serif;
+  color: #11999E;
+  text-align: center;
+}
+h1
+{
+  font-family: 'Parisienne', cursive;
+  text-align: center;
+  width: 30%;
+  margin: 0 auto 0 auto;
+  font-size: 3.6rem;
+  color: #009AAE;
+  font-weight: normal;
+}
+h3
+{
+  font-family: 'Montserrat', sans-serif;
+  padding: 10px;
+}
+a
+{
+  color: inherit;
+  text-decoration: none;
+  font-family: 'Montserrat', sans-serif;
+  padding:5px;
+}
+a:hover
+{
+  color: #EAF6F6;
+}
+p
+{
+  font-family: 'Poppins', sans-serif;
+}
+hr
+{
+  border: dotted #009AAE 6px;
+  border-bottom: 0;
+  margin: 80px auto;
+  width: 4%;
+}
